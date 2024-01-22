@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(185, 29, 29);
+}
+
+div {
+  color: blanchedalmond;
+  width: 30%;
+  padding: 100px;
+  margin: auto;
+  letter-spacing: 0.2rem;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  color: darkkhaki;
+  background-color: white;
+  border-radius: 10px;
+  height: auto;
+}
+
+h2 {
+}
+
+img {
+  border-radius: auto;
+  padding: 10px;
+  width: 450px;
+  margin: auto;
+  display: block;
+  max-width: 70%;
+}
+
+button {
+  background-color: rgb(185, 29, 29);
+  color: white;
+  border: white;
+  text-align: center;
+  width: auto;
+  height: auto;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 10%;
+  padding: 10px;
+}
+
+button:hover {
+  background-color: antiquewhite;
+  color: rgb(185, 29, 29);
+}
