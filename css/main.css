@@ -1,27 +1,11 @@
 body {
   background-color: rgb(185, 29, 29);
-}
-
-div {
-  color: blanchedalmond;
-  width: 30%;
-  padding: 100px;
   margin: auto;
-  letter-spacing: 0.2rem;
-  font-style: italic;
-  font-weight: bold;
   text-align: center;
-  color: darkkhaki;
-  background-color: white;
-  border-radius: 10px;
-  height: auto;
-}
-
-h2 {
 }
 
 img {
-  border-radius: auto;
+  border-radius: 50%;
   padding: 10px;
   width: 450px;
   margin: auto;
@@ -30,8 +14,8 @@ img {
 }
 
 button {
-  background-color: rgb(185, 29, 29);
-  color: white;
+  background-color: white;
+  color: darkred;
   border: white;
   text-align: center;
   width: auto;
@@ -41,9 +25,14 @@ button {
   font-size: 20px;
   border-radius: 10%;
   padding: 10px;
+  margin: auto;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
 }
 
 button:hover {
-  background-color: antiquewhite;
-  color: rgb(185, 29, 29);
+  background-color: rgb(224, 37, 37);
+  color: white;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
 }
