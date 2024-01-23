@@ -1,6 +1,12 @@
 body {
-  background-color: lightblue;
-  text-align: center;
-  padding: 100px;
-  margin: 10%;
+  background-image: url(/images/Tsunami.jpg);
+  color: black;
+  background-size: cover;
+  text-align: end;
+}
+
+p {
+  padding: 25px;
+  width: 450px;
+  float: right;
 }
