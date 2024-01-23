@@ -1,12 +1,16 @@
 body {
   background-image: url(../images/Tsunami.jpg);
-  color: black;
   background-size: cover;
   text-align: end;
+  background-repeat: no-repeat;
+  opacity: 0.7;
+  color: black;
 }
 
 p {
   padding: 25px;
   width: 450px;
   float: right;
+  border: 15px solid antiquewhite;
+  background-color: antiquewhite;
 }
