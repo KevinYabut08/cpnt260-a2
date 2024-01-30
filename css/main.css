@@ -36,3 +36,17 @@ button:hover {
   font-style: italic;
   font-family: "Times New Roman", Times, serif;
 }
+
+@media screen and (min-width: 600px) {
+  body {
+    background-color: antiquewhite;
+    font-size: large;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: burlywood;
+    font-size: larger;
+  }
+}
