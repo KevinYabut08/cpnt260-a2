@@ -39,12 +39,12 @@ button:hover {
 
 @media screen and (min-width: 600px) {
   body {
-    background-color: antiquewhite;
+    background-color: #faebd7;
     font-size: large;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   body {
     background-color: burlywood;
     font-size: larger;
